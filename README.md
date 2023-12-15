@@ -13,3 +13,6 @@ Para instalar as bibliotecas necessarias basta utilizar o requirements.txt que s
 
 # Verificando Status do Pagamento
 /verify_payment Status da Transação criada! Passando o parametro ID no Body da requisição.
+
+# Apagar QrCODEs
+O arquivo schedule.py apaga todos os PNG de QrCODE gerados na pasta /qrcode de 8 em 8 horas! pode ser executado de forma opcional usando nohup.
