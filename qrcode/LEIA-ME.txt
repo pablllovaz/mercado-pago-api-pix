@@ -1,0 +1,3 @@
+PASTA DESTINADA AO ARMAZENAMENTO DO QRCODE EM PNG!
+
+As imagens do QrCODE tem duração de 8 hora! (OPCIONAL!) Apenas se o arquivo schedule.py for executado em segundo plano com nohup!
